@@ -8,7 +8,7 @@ Predicts whether a customer will be **90+ days past due within the next 2 years*
 
 - [ x ] 01 — Exploratory data analysis
 - [ x ] 02 — Data preparation + baseline (Logistic Regression)
-- [ ] 03 — Main model (LightGBM + MLflow)
+- [ x ] 03 — Main model (LightGBM + MLflow)
 - [ ] 04 — Explainability (SHAP) + business impact
 
 ## Data
